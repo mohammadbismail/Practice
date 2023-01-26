@@ -17,8 +17,8 @@ public class Main {
 //         ll.removeElement(50);
 //         ll.removeElement(11);
 //         ll.removePosition(2);
-//         ll.reverseList();
+         ll.reverseList();
         ll.displayList();
-        ll.search(10);
+//        ll.search(10);
     }
 }
